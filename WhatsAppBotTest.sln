@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatAppBotTest", "WhatAppBotTest\WhatAppBotTest.csproj", "{6F42A849-F9EF-48F8-8E9F-AC7153FF124E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsAppBotTest", "WhatsAppBotTest\WhatsAppBotTest.csproj", "{6F42A849-F9EF-48F8-8E9F-AC7153FF124E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
